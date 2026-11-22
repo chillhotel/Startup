@@ -29,9 +29,17 @@
 .big_div{
     width: 90%;
 }
+.rer4{
+    width: 265px;
+    height: 265px;
+}
 }
 @media (min-width: 1051px) and (max-width: 1200px) {
 .ytrewq{
     height: 120vh;
+}
+    .rer4{
+    width: 265px;
+    height: 265px;
 }
 }
