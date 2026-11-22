@@ -1,0 +1,37 @@
+@media (min-width: 768px) and (max-width: 1050px) {
+.qwerty{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.qwert{
+    margin-bottom: 20px;
+}
+.navq{
+    width: 90%;
+    font-size: 24px;
+}
+.qwe{
+    height: 70vh;
+}
+.abcde{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ytrewq{
+    height: 1300px;
+}
+.abcde_art{
+    margin-bottom: 25px;
+    width: 270px;
+}
+.big_div{
+    width: 90%;
+}
+}
+@media (min-width: 1051px) and (max-width: 1200px) {
+.ytrewq{
+    height: 120vh;
+}
+}
